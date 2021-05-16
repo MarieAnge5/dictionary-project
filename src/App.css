@@ -1,8 +1,13 @@
 body {
-  background: rgb(223, 203, 241);
+  background: rgb(45, 19, 68);
 }
 a {
   color: blue;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .App-header {
